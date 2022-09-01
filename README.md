@@ -1,3 +1,3 @@
-click f5 to start the program
+is VScode push f5 to start the program
 
 # flutter
